@@ -1,9 +1,11 @@
 {
-  "type": "module",
+  "name": "advent-of-code-2024",
+  "version": "1.0.0",
+  "main": "index.js",
   "scripts": {
-      "test": "vitest"
+    "start": "node index.js"
   },
-  "devDependencies": {
-      "vitest": "^2.1.8"
+  "dependencies": {
+    "axios": "^0.21.1"
   }
 }

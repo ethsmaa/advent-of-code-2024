@@ -1,0 +1,1 @@
+// dosya asiri buyuktu advent-of-code sitesinden fetch ettim
